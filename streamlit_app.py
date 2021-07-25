@@ -85,4 +85,3 @@ try:
 except:
     pass
 
-st.balloons()
